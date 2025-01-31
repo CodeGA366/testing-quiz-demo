@@ -30,4 +30,4 @@ Add more tests!
 Run "npm run test" in your terminal 
 
 ## Questions
-If you have any questions, please feel free to contact me at codega366@gmail.com. You can also find me on GitHub at [CodeGa366@gmail.com]
+If you have any questions, please feel free to contact me at codega366@gmail.com. You can also find me on GitHub at [CodeGa366]
