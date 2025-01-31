@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This app is for demo purposes to showcase component and end to end testing. Simply copy the repository locally and start the Quiz via npm run start:dev once the quiz is running use the command npm run test to run the test you can also use npm run cypress:open to run the test via cypress test runner!
+This app is for demo purposes to showcase component and end to end testing. Simply copy the repository locally and start the Quiz via npm run start:dev once the quiz is running use the command npm run test to run the test you can also use npm run cypress:open to run the test via cypress test runner! [Video Walkthrough!](https://drive.google.com/file/d/1XhuKCE7tgH5lG_zoDe83ZfvsMd9pF8eu/view)
 
 ## Table of Contents
 - [Installation](#installation)
